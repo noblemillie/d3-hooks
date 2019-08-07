@@ -1,0 +1,8 @@
+{
+      "editor.tabSize": 6,
+      "editor.tabCompletion": "on",
+      "workbench.editor.highlightModifiedTabs": true,
+      "workbench.editor.tabSizing": "shrink",
+      "prettier.tabWidth": 4,
+      "markdown.extension.tableFormatter.normalizeIndentation": true
+}
