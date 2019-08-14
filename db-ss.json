@@ -1,0 +1,19 @@
+a{
+    "profile": {
+        "name": "Theodore Byte III"
+    },
+    "boards": [
+        {
+            "id": 1,
+            "title": "whiteboard"
+        },
+        {
+            "id": 2,
+            "title": "pending"
+        },
+        {
+            "id": 3,
+            "title": "done"
+        }
+    ]
+}

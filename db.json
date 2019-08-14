@@ -1,19 +1,38 @@
 {
-    "profile": {
-        "name": "Theodore Byte III"
-    },
     "boards": [
         {
-            "id": 1,
-            "title": "whiteboard"
+            "id": "queue",
+            "name": "Queue",
+            "position": 2,
+            "listItems": [
+                {
+                    "title": "app design",
+                    "detail": "break UI into component hierarchy",
+                    "number": 1
+                },
+                {
+                    "title": "build main components",
+                    "detail": "build a static version that renders correct layout",
+                    "number": 2
+                },
+                {
+                    "title": "add interactivity",
+                    "detail": "wire up react hooks",
+                    "number": 3
+                }
+            ]
         },
         {
-            "id": 2,
-            "title": "pending"
-        },
-        {
-            "id": 3,
-            "title": "done"
+            "id": "done",
+            "name": "Done",
+            "position": 1,
+            "listItems": [
+                {
+                    "title": "app development plan",
+                    "detail": "create the blueprint for app development ",
+                    "number": 1
+                }
+            ]
         }
     ]
 }
